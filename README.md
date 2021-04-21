@@ -11,4 +11,5 @@ inspectResultFilesGenerateDetails.py - Reads the test reports for identifying th
 inspectResultFileGenerateFailureDetails.py - Reads the file configTestResults.csv. Generates a file named tabulatedFailures.csv. With a failure identifier
 and the executions where the failures occurred. 
 
+itemset_dataset.ipynb - A Jupyter Notebook with code for frequent item set mining using an implementation of the Apriori algorithm.
 
