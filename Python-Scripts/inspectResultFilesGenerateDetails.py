@@ -1,6 +1,5 @@
 import csv
 import glob
-from pyquery import PyQuery
 
 #----Reading all configurations ------------------------------
 inputFileName = 'configCombinations-v2.csv'
