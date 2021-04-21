@@ -5,4 +5,5 @@ SensorConditionsTest folder contains the code for test suite extension for Java 
 Scripts folder contains Python code:
 
 runExpMultAll -> the Test Execution Manager
+
 inspectResultFilesGenerate Details - Reads the test reports for identifying the failures. Generates a file named configTestResult.csv with Failure Descriptions and the configuration associated. Uses as input the configuration set file configCombinations-v2.csv
