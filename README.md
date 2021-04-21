@@ -1,5 +1,7 @@
 # artifacts
 
+Configurations-set folder contains the configuration set file configCombinations-v2.csv with  (2^8 = 256) combinations of the sensors states (enabled/disabled). When the name of the sensor is present in a line, this means that the respective sensor is enabled.
+
 SensorConditionsTest folder contains the code for test suite extension for Java and Kotlin. They were implemented usin UIAutomator and AndroidX test library. There are two versions: for Galaxy M30 and Galaxy S10.
 
 Scripts folder contains Python code:
